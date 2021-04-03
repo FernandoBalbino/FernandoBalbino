@@ -2,7 +2,7 @@
 
 # About me 🌐
 
-Hello World! Meu nome é Fernando Kauã da Silva Balbino, e eu adoro o mundo da tecnologia. Sou apaixonado pelo o que eu faço e aprendo. Moro em Maceió-AL.
+Hello World! Meu nome é Fernando Kauã da Silva Balbino e eu adoro o mundo da tecnologia. Sou apaixonado pelo o que eu faço e aprendo. Moro em Maceió-AL.
 Atualmente estudando o gigantesco mundo da web. Cada dia é um novo aprendizado, um novo bug rs.
 Adoro resolver problemas, quais tenho conhecimentos, quais não tenho, mas o mais importante é seguir em frente e continuar lutando! eae, vamos codar? bem vindo ao meu mundo.
 
