@@ -1,5 +1,11 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+# About me 👨
+
+- Meu nome é Fernando Kauã da Silva Balbino, e eu adoro o mundo da tecnologia. Sou apaixonado pelo o que eu faço e aprendo. Moro em Maceió-AL.
+- Atualmente estudando o gigantesco mundo da web, assim como suas ferramentas. Cada dia é um novo aprendizado, um novo bug rs. 
+- Adoro resolver problemas, quais tenho conhecimentos, quais não tenho. O importate é seguir em frente! Bem vindo ao meu mundo, ou... ### Welcome to my world! 🌐
+
 ### Abstract
 
 - 😄 Estudante de Ciência da computação.
