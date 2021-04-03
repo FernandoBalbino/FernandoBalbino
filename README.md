@@ -3,7 +3,7 @@
 ### Abstract
 
 - 😄 Estudante de Ciência da computação.
-- 💓 Interesses: JavaScrip, html, css, bootstrap, frameworks webs.
+- 💓 Interesses: JavaScript, html, css, bootstrap, frameworks webs.
 
 ## Skills :nerd_face:
 
