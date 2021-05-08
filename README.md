@@ -11,6 +11,12 @@ Adoro resolver problemas, quais tenho conhecimentos, quais não tenho, mas o mai
 - 😄 Estudante de Ciência da computação.
 - 💓 Interesses: JavaScript, html, css, bootstrap e frameworks web.
 
+### 💻 Em desenvolvimento...
+
+- Estudando Php em conjunto de Mysql.
+- Padrão de arquitetura MVC com Php.
+- Iniciando com servidor Apache, Php e MySQl.
+
 ## Skills :nerd_face:
 
 <p align="center">
