@@ -9,7 +9,7 @@ Adoro resolver problemas, quais tenho conhecimentos, quais não tenho, mas o mai
 ### Abstract
 
 - 😄 Estudante de Ciência da computação.
-- 💓 Interesses: JavaScript, html, css, bootstrap e frameworks webs.
+- 💓 Interesses: JavaScript, html, css, bootstrap e frameworks web.
 
 ## Skills :nerd_face:
 
@@ -23,6 +23,8 @@ Adoro resolver problemas, quais tenho conhecimentos, quais não tenho, mas o mai
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
