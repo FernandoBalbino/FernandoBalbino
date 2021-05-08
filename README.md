@@ -13,7 +13,7 @@ Adoro resolver problemas, quais tenho conhecimentos, quais não tenho, mas o mai
 
 ### 💻 Em desenvolvimento...
 
-- Estudando Php em conjunto de Mysql.
+- Estudando Php em conjunto com Mysql.
 - Padrão de arquitetura MVC com Php.
 - Iniciando com servidor Apache, Php e MySQl.
 
