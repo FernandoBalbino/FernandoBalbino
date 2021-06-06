@@ -3,7 +3,7 @@
 # About me 🌐
 
 Hello World! Meu nome é Fernando, sou do Brasil e minha especialidade é Full Stack Web Developer, mas pretendo expandir meu conhecimento para outras áreas como Mobile, back-end e outras. 
-Atualmente estudando o gigantesco mundo da web. Cada dia é um novo aprendizado, um novo desafio.
+Cada dia é um novo aprendizado, um novo desafio.
 Adoro resolver problemas quais tenho conhecimentos, quais não tenho.
 ### Abstract
 
