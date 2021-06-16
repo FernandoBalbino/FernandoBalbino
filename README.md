@@ -7,7 +7,6 @@ Cada dia é um novo aprendizado, um novo desafio.
 Adoro resolver problemas quais tenho conhecimentos, quais não tenho.
 
 <div style ="display:flex; justify-content:center;">
-  <a href="https://github.com/FernandoBalbino">
   <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoBalbino&layout=compact&langs_count=16&theme=dracula"/>
   <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoBalbino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <div>
