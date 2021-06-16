@@ -14,7 +14,6 @@ Adoro resolver problemas quais tenho conhecimentos, quais não tenho.
 
 # Portfólio
 Acesse para conhecer mais sobre mim e meu trabalho!
-  
 <a target='_blank' href='https://fernandobalbino.github.io/Portfolio/'>Clique aqui :nerd_face:</a>
 ### Abstract
 
