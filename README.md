@@ -1,12 +1,14 @@
 # Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ## About me 🌐
-<img align="center" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+<div style="margin: 20px auto;">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+</div>
 Hello World! Meu nome é Fernando, sou do Brasil e minha especialidade é Full Stack Web Developer, mas pretendo expandir meu conhecimento para outras áreas como Mobile, back-end e outras. 
 Cada dia é um novo aprendizado, um novo desafio.
 Adoro resolver problemas quais tenho conhecimentos, quais não tenho.
 
-<div style ="display:flex; justify-content:center; padding: 100px;">
+<div style ="display:flex; justify-content:center;">
   <img  width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoBalbino&layout=compact&langs_count=16&theme=dracula"/>
   <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoBalbino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <div>
