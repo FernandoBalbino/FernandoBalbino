@@ -2,7 +2,7 @@
 
 ## About me 🌐
 <div>
- <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
+ <img display="block" align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 </div>
 
 <div>⠀⠀Hello World! Meu nome é Fernando, sou do Brasil e minha especialidade é Full Stack Web Developer, mas pretendo expandir meu conhecimento para outras áreas como Mobile, back-end e outras. Estou em constante evolução, sempre me aperfeiçoando na programação em geral. Adoro resolver problemas quais tenho conhecimentos, quais não tenho. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</div>
