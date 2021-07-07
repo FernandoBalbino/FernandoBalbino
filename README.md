@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ## About me 🌐
-<div">
+<div>
  <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 </div>
 
@@ -9,6 +9,8 @@ Hello World! Meu nome é Fernando, sou do Brasil e minha especialidade é Full S
 Cada dia é um novo aprendizado, um novo desafio.
 Adoro resolver problemas quais tenho conhecimentos, quais não tenho.
 
+## Static
+Test...
 # Portfólio
 Acesse para conhecer mais sobre mim e meu trabalho!
   
