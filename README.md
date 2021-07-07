@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ## About me 🌐
-<img style='float: left;' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+<img style='display: inline-block; text-align:center;' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 Hello World! Meu nome é Fernando, sou do Brasil e minha especialidade é Full Stack Web Developer, mas pretendo expandir meu conhecimento para outras áreas como Mobile, back-end e outras. 
 Cada dia é um novo aprendizado, um novo desafio.
 Adoro resolver problemas quais tenho conhecimentos, quais não tenho.
