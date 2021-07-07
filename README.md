@@ -10,8 +10,9 @@
 
 
 ## Stats
+<div align="right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoBalbino&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 # Portfólio
 Acesse para conhecer mais sobre mim e meu trabalho!
   
