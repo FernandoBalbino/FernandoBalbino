@@ -5,11 +5,11 @@
  <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 </div>
 
-<div>Hello World! Meu nome é Fernando, sou do Brasil e minha especialidade é Full Stack Web Developer, mas pretendo expandir meu conhecimento para outras áreas como Mobile, back-end e outras. 
+<div align="left">Hello World! Meu nome é Fernando, sou do Brasil e minha especialidade é Full Stack Web Developer, mas pretendo expandir meu conhecimento para outras áreas como Mobile, back-end e outras. 
 Cada dia é um novo aprendizado, um novo desafio.
 Adoro resolver problemas quais tenho conhecimentos, quais não tenho.</div>
 
-## Static
+## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoBalbino&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 # Portfólio
