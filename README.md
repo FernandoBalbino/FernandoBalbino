@@ -10,7 +10,8 @@ Cada dia é um novo aprendizado, um novo desafio.
 Adoro resolver problemas quais tenho conhecimentos, quais não tenho.</div>
 
 ## Static
-Test...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # Portfólio
 Acesse para conhecer mais sobre mim e meu trabalho!
   
