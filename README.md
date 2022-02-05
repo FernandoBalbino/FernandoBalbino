@@ -38,6 +38,10 @@ Acesse para conhecer mais sobre mim e meu trabalho!
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="40" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Contact :iphone:
@@ -50,4 +54,5 @@ Acesse para conhecer mais sobre mim e meu trabalho!
     <a href="mailto:dev.fernandobalbino@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dev.fernandobalbino@gmail.com">
     </a>
+ <a href="https://www.linkedin.com/in/fernando-balbino-aa2678218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
