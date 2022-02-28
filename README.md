@@ -15,9 +15,9 @@ Acesse para conhecer mais sobre mim e meu trabalho!
 
 ### 💻 Em desenvolvimento...
 
-- Estudando Php em conjunto com Mysql.
-- Padrão de arquitetura MVC com Php.
-- Iniciando com servidor Apache, Php e MySQl.
+- Estudando React Js.
+- Trabalhando com Rotas no React Js.
+- Requisições HTTP.
 
 ## Skills :nerd_face:
 
